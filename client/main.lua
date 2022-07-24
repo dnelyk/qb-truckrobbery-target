@@ -285,7 +285,7 @@ RegisterNetEvent('qb-truckrobbery:starthack', function()
                             TriggerEvent('inventory:client:ItemBox', QBCore.Shared.Items[itemname], "remove")
                         end)
                     elseif Config.HackType == "memory" then
-                        exports["qb-truckrobbery"]:thermiteminigame(10, 3, 3, 6,
+                        exports["qb-truckrobbery-target"]:thermiteminigame(10, 3, 3, 6,
 
                         function() -- success
                             cooldown = true
