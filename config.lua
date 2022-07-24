@@ -5,7 +5,7 @@ Config.Cooldown = 600 --- 10 Minutes. Insert time in seconds.
 
 
 -- Hack Config
-Config.HackType = "memory" -- Either "hacking" or "memory" as of Version 1.1 ---- "hacking" requires https://github.com/Jesper-Hustad/NoPixel-minigame/tree/main/fivem-script/hacking
+Config.HackType = "laptop" -- Either "laptop" or "memory" as of Version 1.1 ---- "laptop" requires https://github.com/Jesper-Hustad/NoPixel-minigame/tree/main/fivem-script/hacking
 Config.HackItem = "trojan_usb"  -- The actual item used to start the hack.
 Config.NoItemMessage = "You do not have login credentials." -- Message when player doesnt have the item needed.
 
