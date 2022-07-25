@@ -1,6 +1,8 @@
 # qb-truckrobbery
 qb-truckrobbery with qb-target implementation, as well as a hack, and more configurable options
 
+Right now this resource is a BETA of my https://github.com/dnelyk/qb-truckrobbery which is not finished.
+
 
 # **_Config Options_**
 ##### _Config options are detailed in the Config.lua file._
